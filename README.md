@@ -8,8 +8,8 @@ I am a software engineer student, and I've been learning programming 3 years. I 
 
 *   🌍  I'm based in México
 *   ✉️  You can contact me at [kristoffervelazquez@gmail.com](mailto:kristoffervelazquez@gmail.com)
-*   🧠  I'm learning ReactJS, SQL
-*   🤝  I'm open to collaborating on projects as an intern
+*   🧠  I'm learning ReactJS, SQL, JavaScript
+*   🤝  I'm open to collaborating on projects as an intern somewhere I can grow up.
 
 ### Skills
 
