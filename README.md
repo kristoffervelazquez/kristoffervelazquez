@@ -4,11 +4,11 @@ Hi 👋 My name is Kristoffer Velazquez
 Software Dev and Web Dev
 ------------------------
 
-I am a software engineer student, and I've been learning programming 3 years. I am interested into JavaScript, ReactJS, and Python.
+I am a software engineer student, and I've been learning programming 3 years. I am interested into Fullstack development with React.js, and Node.js.
 
 *   🌍  I'm based in México
 *   ✉️  You can contact me at [kristoffervelazquez@gmail.com](mailto:kristoffervelazquez@gmail.com)
-*   🧠  I'm learning ReactJS, SQL, JavaScript
+*   🧠  I'm learning Node.js, React.js, SQL 
 *   🤝  I'm open to collaborating on projects as an intern somewhere I can grow up.
 
 ### Skills
