@@ -10,6 +10,7 @@ I am a software engineer student, and I've been learning programming 3 years. I 
 *   ✉️  You can contact me at [kristoffervelazquez@gmail.com](mailto:kristoffervelazquez@gmail.com)
 *   🧠  I'm learning Node.js, React.js, SQL 
 *   🤝  I'm open to collaborating on projects as an intern somewhere I can grow up.
+*   <a href="https://kristoffervelazquez.netlify.app"  target="_blank" rel="noreferrer"> My portfolio page <a/>
 
 ### Skills
 
