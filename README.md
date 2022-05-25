@@ -1,7 +1,7 @@
 Hi 👋 My name is Kristoffer Velazquez
 =====================================
 
-Software Dev and Web Dev
+Fullstack Dev Jr
 ------------------------
 
 I am a software engineer student, and I've been learning programming 3 years. I am interested into Fullstack development with React.js, and Node.js.
