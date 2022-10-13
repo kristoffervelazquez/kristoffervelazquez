@@ -8,7 +8,7 @@ I am a software engineer student, and I've been learning programming 3 years. I 
 
 *   🌍  I'm based in México
 *   ✉️  You can contact me at [kristoffervelazquez@gmail.com](mailto:kristoffervelazquez@gmail.com)
-*   🧠  I'm learning Node.js, React.js, SQL 
+*   🧠  I'm have experience working with Node.js and React.js. And I'm currently learning .NET and SQL.
 *   🤝  I'm open to collaborating on projects as an intern somewhere I can grow up.
 *   <a href="https://kristoffervelazquez.netlify.app"  target="_blank" rel="noreferrer"> My portfolio page <a/>
 
