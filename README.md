@@ -8,7 +8,7 @@ I am a software engineer, and I've been into programming 3 years. I am intereste
 
 *   🌍  I'm based in México
 *   ✉️  You can contact me at [kristoffervelazquez@gmail.com](mailto:kristoffervelazquez01@gmail.com)
-*   🧠  I'm have experience working with Node.js and React.js. And I'm currently working as Full-Stack Developer.
+*   🧠  I have experience working with Node.js and React.js. And I'm currently working as Full-Stack Developer.
 *   🤝  I'm open to collaborating on fun projects.
 *   <a href="https://kristoffervelazquez.netlify.app"  target="_blank" rel="noreferrer"> My portfolio page <a/>
 
