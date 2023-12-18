@@ -7,7 +7,7 @@ Mobile Dev and Fullstack Dev
 I am a software engineer working at Kab and co-founder of KleviSoft, and I've been into programming 3+ years. I am interested into creating web and mobile apps with React.js, Node.js, and Flutter.
 
 * 🌍  I'm based in Mexico
-* 🖥️  See my portfolio at [MyPortfolio](http://https://kristoffervelazquez.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://kristoffervelazquez.netlify.app/)
 * ✉️  You can contact me at [kristoffervelazquez01@gmail.com](mailto:kristoffervelazquez01@gmail.com)
 * 🚀  I'm currently working on [KleviSoft](http://https://klevisoft.com/)
 * 🧠  I'm learning Dart + Flutter
