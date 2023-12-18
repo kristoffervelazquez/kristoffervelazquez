@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kristoffer Velazquez
 ============================================================================================================================================
 
-Mobile Dev and Fullstack Dev
+Mobile Dev and Full Stack Dev
 ----------------------------
 
 I am a software engineer working at Kab and co-founder of KleviSoft, and I've been into programming 3+ years. I am interested into creating web and mobile apps with React.js, Node.js, and Flutter.
