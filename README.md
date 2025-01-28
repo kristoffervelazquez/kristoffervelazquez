@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Dev and Full Stack Dev
 ----------------------------
 
-I am a software engineer working at Kab and co-founder of KleviSoft, and I've been into programming 3+ years. I am interested into creating web and mobile apps with React.js, Node.js, and Flutter.
+I am a software engineer working at Kab and co-founder of KleviSoft, and I've been into programming 4+ years. I am interested into creating web and mobile apps with React.js, Node.js, and Flutter.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [MyPortfolio](https://kristoffervelazquez.netlify.app/)
