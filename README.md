@@ -15,7 +15,7 @@ I am a software engineer working at Kab and co-founder of KleviSoft, and I've be
 * ⚡  Cofounder of KLEVI
 
 <a href="https://www.github.com/kristoffervelazquez" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kristoffervelazquez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/@k1ngvm_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/k1ngvm_?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/@k1ngvm_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/@k1ngvm_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
