@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile & Fullstack Develover
 ----------------------------
 
-I am a software engineer working at Kab and co-founder of KleviSoft and Owner of Kraken Labz, and I've been into programming 5+ years. I have found a passion for creating apps with React.js, Node.js, and Flutter.
+I am a software engineer working at Sarchentu Capital and Founder of Velarizon, and I've been into programming 6+ years. I have found a passion for creating apps with React.js, Node.js, and Flutter.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [myportfolio.com](http://kristoffervelazquez.netlify.app/)
-* ✉️  You can contact me at [kristoffervelazquez01@gmail.com](mailto:kristoffervelazquez01@gmail.com)
-* 🚀  I'm currently working on [Kraken Club](http://club.krakenlabz.tech)
+* ✉️  You can contact me at [kvelazquez@velarizon.com](mailto:kvelazquez@velarizon.com)
+* 🚀  I'm currently working on [Velarizon](https://velarizon.com)
 * 🧠  I'm learning to be better than yesterday's me
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  Things might look bad, not afraid to look death in the face
